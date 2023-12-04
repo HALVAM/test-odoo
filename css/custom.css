@@ -1,0 +1,20 @@
+/*Estilos personalizados*/
+
+/*Tarjeta de crédito*/
+.contenedor-cc {
+    background-image: url(../images/fondo-mapa.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 1rem;
+}
+
+.contenedor-cc .bg-success {
+    background-color: #5BC9A6 !important
+}
+
+.link-cc {
+    text-decoration: none !important;
+    padding-bottom: 2px;
+    border-bottom: 1px dashed;
+}
